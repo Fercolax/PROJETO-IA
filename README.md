@@ -18,5 +18,7 @@ Imgens geradas por prompt
 
 ![_75bb8197-09e7-44e4-ac1f-bda4e06188f4](https://github.com/user-attachments/assets/6798e335-f45e-47cd-aaed-61b92864e7ae)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+![_6f4bb974-b96c-470d-b1a7-fe508998956f](https://github.com/user-attachments/assets/f9cfb9b8-cb94-499f-9659-1e675b974cb1)
+
+
